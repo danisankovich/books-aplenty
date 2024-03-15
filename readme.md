@@ -1,0 +1,1 @@
+A desktop app written in python for quickly looking up books
